@@ -1,0 +1,7 @@
+[package]
+name = "rust-data-structures"
+version = "0.1.0"
+authors = ["George Bogodukhov <gvbgduh@gmail.com>"]
+edition = "2018"
+
+[dependencies]
