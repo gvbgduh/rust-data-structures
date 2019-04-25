@@ -1,3 +1,7 @@
+///
+/// Very simple and rough implementation of the singly-linked list
+/// 
+
 use std::mem;
 
 #[derive(Debug)]
